@@ -1,0 +1,19 @@
+
+h1 {
+    background: red;
+    font-size: 40px;
+    margin: 4px;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+}
+
+section div {
+    width: 200px;
+    background: green;
+    border: darkgreen;
+    border-radius: 12px;
+    height: 100px;
+}
